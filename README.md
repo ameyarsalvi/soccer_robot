@@ -7,3 +7,6 @@ Soccer Playing Robot was an academic project involving design and development of
 The Design:
 
 ![Exploded](https://github.com/ameyarsalvi/soccer_robot/blob/master/Exploded.jpg)
+
+
+For a detailed working Check out this video :https://drive.google.com/file/d/1fXfxqsm8ywYX7xbO5IoABrB-f8eo2jOk/view?usp=sharing
